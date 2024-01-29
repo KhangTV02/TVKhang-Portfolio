@@ -40,7 +40,7 @@ const Projects = () => {
         <div className="grid sm:grid-cols-3 lg:grid-cols-3 md:grid-cols-2 px-12 sm:px-0 mt-10">
         {
         Projects.map(({id, title, link, src, style})=>(
-            <div key={id} className="shadow-md shadow-gray-600 rounded-lg flex flex-col items-center gap-2 mx-5">
+            <div key={id} className="shadow-md shadow-gray-600 rounded-lg flex flex-col items-center gap-2 mx-5 md:pb-2 sm:pb-2">
             <img src={src} alt="" className={`rounded-md duration-200 hover:scale-105 mb-1 w-48 h-48 object-cover`} />{title}
             <div className="flex justify-center items-center">
             <a href={link} target="_blank" rel="noopener noreferrer">
