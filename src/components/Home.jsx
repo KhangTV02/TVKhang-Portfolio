@@ -24,7 +24,7 @@ const Home = () => {
 
           <div>
             <Link to="projects" smooth duration={500} className="flex justify-center">
-              <button className="group text-white w-fit px-6 py-3 my-2 flex rounded-md bg-gradient-to-r from-cyan-500 to-yellow-500 hover:scale-110 duration-300">
+              <button className="group text-white w-fit px-6 py-3 my-2 flex rounded-md bg-gradient-to-r from-cyan-500 to-red-500 hover:scale-110 duration-300">
                 Projects
                 <span className="group-hover:rotate-90 duration-300">
                   <MdOutlineKeyboardArrowRight size={25} />
