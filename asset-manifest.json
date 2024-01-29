@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TVKhang-Portfolio/static/css/main.b3fc62d8.css",
-    "main.js": "/TVKhang-Portfolio/static/js/main.f4adbd37.js",
+    "main.js": "/TVKhang-Portfolio/static/js/main.5479af60.js",
     "static/media/HeroImg.jpg": "/TVKhang-Portfolio/static/media/HeroImg.720acd22fe137b0af017.jpg",
     "static/media/ninja.png": "/TVKhang-Portfolio/static/media/ninja.ad2870974a8ba799e032.png",
     "static/media/sql.png": "/TVKhang-Portfolio/static/media/sql.ca86100dc39c04d7bbd3.png",
     "index.html": "/TVKhang-Portfolio/index.html",
     "main.b3fc62d8.css.map": "/TVKhang-Portfolio/static/css/main.b3fc62d8.css.map",
-    "main.f4adbd37.js.map": "/TVKhang-Portfolio/static/js/main.f4adbd37.js.map"
+    "main.5479af60.js.map": "/TVKhang-Portfolio/static/js/main.5479af60.js.map"
   },
   "entrypoints": [
     "static/css/main.b3fc62d8.css",
-    "static/js/main.f4adbd37.js"
+    "static/js/main.5479af60.js"
   ]
 }
