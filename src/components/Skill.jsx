@@ -6,7 +6,7 @@ import Reacts from "../Assets/Creact.jpg";
 import Csharp from "../Assets/Csharp.png";
 import Css from "../Assets/css.png";
 import HTML from "../Assets/html.png";
-import MongoDB from "../Assets/MongoDB.png";
+import MongoDB from "../Assets/MongoDB.png"
 import Sql from "../Assets/sql.png"
 const Skill = () => {
 
