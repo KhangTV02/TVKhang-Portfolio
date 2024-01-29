@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TVKhang-Portfolio/static/css/main.433df11a.css",
-    "main.js": "/TVKhang-Portfolio/static/js/main.1ace772d.js",
+    "main.css": "/TVKhang-Portfolio/static/css/main.eff6f38f.css",
+    "main.js": "/TVKhang-Portfolio/static/js/main.e2f910ca.js",
     "static/media/HeroImg.jpg": "/TVKhang-Portfolio/static/media/HeroImg.720acd22fe137b0af017.jpg",
     "static/media/ninja.png": "/TVKhang-Portfolio/static/media/ninja.ad2870974a8ba799e032.png",
     "static/media/sql.png": "/TVKhang-Portfolio/static/media/sql.ca86100dc39c04d7bbd3.png",
     "index.html": "/TVKhang-Portfolio/index.html",
-    "main.433df11a.css.map": "/TVKhang-Portfolio/static/css/main.433df11a.css.map",
-    "main.1ace772d.js.map": "/TVKhang-Portfolio/static/js/main.1ace772d.js.map"
+    "main.eff6f38f.css.map": "/TVKhang-Portfolio/static/css/main.eff6f38f.css.map",
+    "main.e2f910ca.js.map": "/TVKhang-Portfolio/static/js/main.e2f910ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.433df11a.css",
-    "static/js/main.1ace772d.js"
+    "static/css/main.eff6f38f.css",
+    "static/js/main.e2f910ca.js"
   ]
 }
